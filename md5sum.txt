@@ -7,5 +7,6 @@
 "episodes/introduction.Rmd" "2d68fdc4d8fedf307f5a783dccccdd06" "site/built/introduction.md" "2025-06-24"
 "instructors/instructor-notes.md" "5cf113fd22defb29d17b64597f3c9bc0" "site/built/instructor-notes.md" "2025-06-24"
 "learners/reference.md" "527a12e217602daae51c5fd9ef8958df" "site/built/reference.md" "2025-06-24"
-"learners/setup.md" "61568b36c8b96363218c9736f6aee03a" "site/built/setup.md" "2025-06-24"
+"learners/setup.md" "11677ad4910402b27ac405530fc54f14" "site/built/setup.md" "2025-06-24"
 "profiles/learner-profiles.md" "5fe5bf7537072422b91ed393ada03f9a" "site/built/learner-profiles.md" "2025-06-24"
+"renv/profiles/lesson-requirements/renv.lock" "92ae83c2904f2017f4215aaaca8b1206" "site/built/renv.lock" "2025-06-24"
