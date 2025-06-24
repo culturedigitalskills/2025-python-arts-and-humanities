@@ -7,5 +7,5 @@ This resource is built with [The Carpentries Workbench](https://carpentries.gith
 ![](../episodes/fig/diskah logo - vertical - black.png){width=50% alt="logo"}
 
 ### DOI  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12698543.svg)](https:........)
+
 

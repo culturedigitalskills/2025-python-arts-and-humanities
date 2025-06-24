@@ -10,4 +10,3 @@ By the end of this resource you are expected to be able to:
 -   Apply Python to process and analyse textual data in order to manage and extract information.
 -   Build basic reusable Python scripts by using functions and modules for various tasks.
 
-This resource is built with The Carpentries Workbench, as part of the training activities of the UKRI-funded Digital Skills in Arts and Humanities (DISKAH) Network.
