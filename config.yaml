@@ -60,6 +60,10 @@ contact: 'K.Rodriguez@brighton.ac.uk'
 # Order of episodes in your lesson
 episodes:
 - introduction.Rmd
+- python-basics.Rmd
+- variables-operators.Rmd
+- logic-functions.Rmd
+- importing-and-working-with-datasets.Rmd
 
 # Information for Learners
 learners:

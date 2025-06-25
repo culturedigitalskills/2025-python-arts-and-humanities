@@ -1,7 +1,7 @@
 ---
-title: 'Introduction'
-teaching: 10
-exercises: 2
+title: 'Logic and Functions'
+teaching: 50
+exercises: 30
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -108,3 +108,5 @@ Cool, right?
 - Run `sandpaper::build_lesson()` to preview your lesson locally
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+

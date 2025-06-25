@@ -1,5 +1,5 @@
 ---
-title: 'Introduction'
+title: 'Variables and Operators'
 teaching: 10
 exercises: 2
 ---
@@ -108,3 +108,4 @@ Cool, right?
 - Run `sandpaper::build_lesson()` to preview your lesson locally
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
