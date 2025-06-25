@@ -1,5 +1,5 @@
 ---
-title: 'Introduction'
+title: 'Variables and Operators'
 teaching: 10
 exercises: 2
 ---
@@ -87,7 +87,7 @@ pie(
 ```
 
 <div class="figure" style="text-align: center">
-<img src="fig/introduction-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid"  />
+<img src="fig/variables-operators-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid"  />
 <p class="caption">Sun arise each and every morning</p>
 </div>
 Or you can use pandoc markdown for static figures with the following syntax:
@@ -114,3 +114,4 @@ Cool, right?
 - Run `sandpaper::build_lesson()` to preview your lesson locally
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
